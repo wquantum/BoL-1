@@ -11,9 +11,9 @@ spellDmg||eXtragoZ||http://pastebin.com/raw.php?i=2ahtR1FQ
 Button3D||Gharakest||https://raw.githubusercontent.com/Gharakest/bol/master/Common/Button3D.lua
 target_selector||Keoshin||https://gist.githubusercontent.com/Taik/413521900102b2719978/raw/af6f08100a5ad5648f52da69f15a81b56bc961a1/target_selector.lua
 imLib||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/imLib.lua
-PPrediction||Dienofail||https://raw.githubusercontent.com/wquantum1/BoL/master/PPrediction.lua
-BestCollision||Dienofail||https://raw.githubusercontent.com/wquantum1/BoL/master/BestCollision.lua
-AoESkillShotPosition||Monogato||https://raw.githubusercontent.com/wquantum1/BoL/master/AoESkillShotPosition.lua
-LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/wquantum1/BoL/master/LineSkillShotPosition.lua
+PPrediction||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
+BestCollision||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua
+AoESkillShotPosition||Monogato||https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua
+LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/LineSkillShotPosition.lua
 Prodiction||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Prodiction.lua
 Collision||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Collision.lua
