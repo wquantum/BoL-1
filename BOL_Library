@@ -3,8 +3,8 @@ spellList||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/maste
 iSAC||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/iSAC.lua
 AllClass||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/AllClass.lua
 ComboClass||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/ComboClass.lua
-VPrediction||Honda7||https://raw.githubusercontent.com/AWABoL150/BoL/master/Honda7-Scripts/common/VPrediction.lua
-SOW||Honda7||https://raw.githubusercontent.com/AWABoL150/BoL/master/Honda7-Scripts/common/SOW.lua
+VPrediction||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/VPrediction.lua
+SOW||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/SOW.lua
 SourceLib||TheRealSource||https://raw.githubusercontent.com/TheRealSource/public/master/common/SourceLib.lua
 DrawDamageLib||Draesia||http://pastebin.com/raw.php?i=UfZ0Efax
 spellDmg||eXtragoZ||http://pastebin.com/raw.php?i=2ahtR1FQ
