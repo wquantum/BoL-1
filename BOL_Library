@@ -21,3 +21,4 @@ Selector||pqmailer||https://raw.githubusercontent.com/pqmailer/BoL_Scripts/maste
 MapPosition||Husky||http://pastebin.com/raw.php?i=GdZ1T8zc
 SALib||BotHappy||https://raw.githubusercontent.com/BotHappy/bh-scripts/master/Common/SALib.lua
 old2dgeo||Husky||https://raw.githubusercontent.com/wquantum1/BoL/master/old2dgeo.lua
+FastCollision||Klokje||https://bitbucket.org/boboben1/bol-scripts/raw/7dae5a6294b9db14b5430b72d9b5c2c6eb8758a1/Misc/FastCollision.lua
