@@ -3,7 +3,7 @@ spellList||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/maste
 iSAC||Apple||https://raw.githubusercontent.com/BoL-Apple/BoL/master/Common/iSAC.lua
 AllClass||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/AllClass.lua
 ComboClass||SurfaceS||https://raw.githubusercontent.com/SurfaceS/BoL_Studio/master/Scripts/Common/ComboClass.lua
-ComboLib||llama||https://raw.github.com/LlamaBoL/BoL/master/Common/comboLib.lua
+ComboLib||llama||https://raw.githubusercontent.com/LlamaBoL/BoL/master/Common/comboLib.lua
 VPrediction||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/VPrediction.lua
 SOW||Honda7||https://raw.githubusercontent.com/Hellsing/BoL/master/common/SOW.lua
 SourceLib||TheRealSource||https://raw.githubusercontent.com/TheRealSource/public/master/common/SourceLib.lua
