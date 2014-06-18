@@ -13,7 +13,7 @@ target_selector||Keoshin||https://gist.githubusercontent.com/Taik/413521900102b2
 imLib||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/imLib.lua
 PPrediction||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
 BestCollision||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/BestCollision.lua
-AoESkillShotPosition||Monogato||https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua
+AoE_SkillShot_Position||Monogato||https://raw.githubusercontent.com/Dienofail/BoL/master/common/AoESkillShotPosition.lua
 LineSkillShotPosition||Dienofail||https://raw.githubusercontent.com/Dienofail/BoL/master/common/LineSkillShotPosition.lua
 Prodiction||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Prodiction.lua
 Collision||Klokje||https://raw.githubusercontent.com/wquantum1/BoL/master/Collision.lua
